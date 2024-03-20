@@ -1,0 +1,57 @@
+{
+  '登录流程': {
+    1: {
+      1: {
+        'key': 'open_browser',
+        'value': 'type_=Chrome'
+      },
+      2: {
+        'key': 'open',
+        'value': 'url=https://account.aiseesoft.com/login'
+      },
+      3: {
+        'key': 'input',
+        'value': "id=xpath;value=//input[@class='email'];txt=testaoko@163.com"
+      },
+      4: {
+        'key': 'input',
+        'value': "id=xpath;value=//input[@class='password'];txt=123456789"
+      },
+      5: {
+        'key': 'click',
+        'value': "id=xpath;value=//span[@class='btn login_btn']"
+      },
+      6: {
+        'key': 'assert_in',
+        'value': 'fun=get_url;url=https://www.aiseesoft.com;msg=页面成功跳转'
+      }
+    },
+    2: {
+      1: {
+        'key': 'open_browser',
+        'value': 'type_=Chrome'
+      },
+      2: {
+        'key': 'open',
+        'value': 'url=https://account.aiseesoft.com/login'
+      },
+      3: {
+        'key': 'input',
+        'value': "id=xpath;value=//input[@class='email'];txt=testaoko@163.com"
+      },
+      4: {
+        'key': 'input',
+        'value': "id=xpath;value=//input[@class='password'];txt=12345678"
+      },
+      5: {
+        'key': 'click',
+        'value': "id=xpath;value=//span[@class='btn login_btn']"
+      },
+      6: {
+        'key': 'assert_info',
+        'value': "fun=find_el;id=xpath;value=//div[@class='error'];msg=登录失败"
+      }
+    }
+  },
+  '修改信息流程': {}
+}

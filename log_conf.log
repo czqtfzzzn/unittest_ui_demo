@@ -1,0 +1,67 @@
+INFO 2024-03-06 21:58:04,114 test_excel_demo.py test_excel_demo pub_case 31 : {'type_': 'Chrome'}
+INFO 2024-03-06 21:58:06,048 test_excel_demo.py test_excel_demo pub_case 31 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-06 21:58:06,185 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-06 21:58:06,226 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '123456789'}
+INFO 2024-03-06 21:58:06,248 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-06 21:58:11,249 test_excel_demo.py test_excel_demo pub_case 31 : {'time_': '5'}
+INFO 2024-03-06 21:58:11,253 test_excel_demo.py test_excel_demo asserts 37 : https://www.aiseesoft.com/;https://www.aiseesoft.com
+INFO 2024-03-06 21:58:11,253 test_excel_demo.py test_excel_demo asserts 39 : 断言结束
+INFO 2024-03-06 21:58:13,381 test_excel_demo.py test_excel_demo tearDown 14 : 关闭浏览器
+INFO 2024-03-06 21:58:19,208 test_excel_demo.py test_excel_demo pub_case 31 : {'type_': 'Chrome'}
+INFO 2024-03-06 21:58:21,085 test_excel_demo.py test_excel_demo pub_case 31 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-06 21:58:21,253 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-06 21:58:21,293 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '12345678'}
+INFO 2024-03-06 21:58:21,318 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-06 21:58:21,320 test_excel_demo.py test_excel_demo asserts 37 : https://account.aiseesoft.com/login;https://www.aiseesoft.com
+INFO 2024-03-06 21:58:23,432 test_excel_demo.py test_excel_demo tearDown 14 : 关闭浏览器
+INFO 2024-03-06 21:58:29,170 test_excel_demo.py test_excel_demo pub_case 31 : {'type_': 'Chrome'}
+INFO 2024-03-06 21:58:31,056 test_excel_demo.py test_excel_demo pub_case 31 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-06 21:58:31,207 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-06 21:58:31,247 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '123456789'}
+INFO 2024-03-06 21:58:31,272 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-06 21:58:36,272 test_excel_demo.py test_excel_demo pub_case 31 : {'time_': '5'}
+INFO 2024-03-06 21:58:36,276 test_excel_demo.py test_excel_demo asserts 37 : https://www.aiseesoft.com/;https://www.aiseesoft.com
+INFO 2024-03-06 21:58:36,276 test_excel_demo.py test_excel_demo asserts 39 : 断言结束
+INFO 2024-03-06 21:58:38,395 test_excel_demo.py test_excel_demo tearDown 14 : 关闭浏览器
+INFO 2024-03-06 21:58:44,159 test_excel_demo.py test_excel_demo pub_case 31 : {'type_': 'Chrome'}
+INFO 2024-03-06 21:58:46,029 test_excel_demo.py test_excel_demo pub_case 31 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-06 21:58:46,090 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-06 21:58:46,132 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '12345678'}
+INFO 2024-03-06 21:58:46,156 test_excel_demo.py test_excel_demo pub_case 31 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-06 21:58:46,158 test_excel_demo.py test_excel_demo asserts 37 : https://account.aiseesoft.com/login;https://www.aiseesoft.com
+INFO 2024-03-06 21:58:48,264 test_excel_demo.py test_excel_demo tearDown 14 : 关闭浏览器
+INFO 2024-03-06 21:58:49,246 email_send.py email_send sendMail 54 : 邮件发送成功
+INFO 2024-03-07 10:56:09,461 test_excel_demo.py test_excel_demo pub_case 32 : {'type_': 'Chrome'}
+INFO 2024-03-07 10:56:31,498 test_excel_demo.py test_excel_demo pub_case 32 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-07 10:56:31,560 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-07 10:56:31,605 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '123456789'}
+INFO 2024-03-07 10:56:31,628 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-07 10:56:36,629 test_excel_demo.py test_excel_demo pub_case 32 : {'time_': '5'}
+INFO 2024-03-07 10:56:44,678 web_keys.py web_keys assert_info 110 : 断言：流程成功
+INFO 2024-03-07 10:56:44,678 test_excel_demo.py test_excel_demo asserts 37 : 断言结束
+INFO 2024-03-07 10:56:46,773 test_excel_demo.py test_excel_demo tearDown 15 : 关闭浏览器
+INFO 2024-03-07 10:56:52,506 test_excel_demo.py test_excel_demo pub_case 32 : {'type_': 'Chrome'}
+INFO 2024-03-07 10:57:17,374 test_excel_demo.py test_excel_demo pub_case 32 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-07 10:57:17,436 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-07 10:57:17,479 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '12345678'}
+INFO 2024-03-07 10:57:17,503 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-07 10:57:17,505 web_keys.py web_keys assert_info 113 : 断言：流程失败
+INFO 2024-03-07 10:57:19,586 test_excel_demo.py test_excel_demo tearDown 15 : 关闭浏览器
+INFO 2024-03-07 10:57:21,340 email_send.py email_send sendMail 54 : 邮件发送成功
+INFO 2024-03-20 08:40:43,056 test_excel_demo.py test_excel_demo pub_case 32 : {'type_': 'Chrome'}
+INFO 2024-03-20 08:41:16,304 test_excel_demo.py test_excel_demo pub_case 32 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-20 08:41:16,354 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-20 08:41:16,393 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '123456789'}
+INFO 2024-03-20 08:41:16,418 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-20 08:41:21,419 test_excel_demo.py test_excel_demo pub_case 32 : {'time_': '5'}
+INFO 2024-03-20 08:41:34,880 web_keys.py web_keys assert_info 110 : 断言：流程成功
+INFO 2024-03-20 08:41:34,880 test_excel_demo.py test_excel_demo asserts 37 : 断言结束
+INFO 2024-03-20 08:41:37,000 test_excel_demo.py test_excel_demo tearDown 15 : 关闭浏览器
+INFO 2024-03-20 08:41:42,838 test_excel_demo.py test_excel_demo pub_case 32 : {'type_': 'Chrome'}
+INFO 2024-03-20 08:42:14,856 test_excel_demo.py test_excel_demo pub_case 32 : {'url': 'https://account.aiseesoft.com/login'}
+INFO 2024-03-20 08:42:14,935 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='email']", 'txt': 'testaoko@163.com'}
+INFO 2024-03-20 08:42:14,983 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//input[@class='password']", 'txt': '12345678'}
+INFO 2024-03-20 08:42:15,009 test_excel_demo.py test_excel_demo pub_case 32 : {'by': 'xpath', 'value': "//span[@class='btn login_btn']"}
+INFO 2024-03-20 08:42:15,011 web_keys.py web_keys assert_info 113 : 断言：流程失败
+INFO 2024-03-20 08:42:17,170 test_excel_demo.py test_excel_demo tearDown 15 : 关闭浏览器
+INFO 2024-03-20 08:42:19,161 email_send.py email_send sendMail 54 : 邮件发送成功
